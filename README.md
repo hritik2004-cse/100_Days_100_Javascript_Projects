@@ -23,4 +23,12 @@ A fast, mobile-optimized currency conversion app built with JavaScript, Tailwind
 - **Live Demo**: [Live Link](https://my-currency-conversion-app.vercel.app/)
 
 ---
+
+### Day 3: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗔𝗴𝗲 𝗖𝗮𝗹𝗰𝘂𝗹𝗮𝘁𝗼r
+A sleek glassmorphic age calculator that tells the exact age from a birth date down to years, months, weeks, days, hours, minutes, seconds, and even milliseconds.
+
+- **GitHub Repository**: [Advance_Age_Calculator](https://github.com/hritik2004-cse/Advance_Age_Calculator)
+- **Live Demo**: [Live Link](https://hritik-advance-age-calculator.vercel.app/)
+
+---
 *Stay tuned for more projects!*
