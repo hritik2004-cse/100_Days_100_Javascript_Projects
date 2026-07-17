@@ -31,4 +31,11 @@ A sleek glassmorphic age calculator that tells the exact age from a birth date d
 - **Live Demo**: [Live Link](https://hritik-advance-age-calculator.vercel.app/)
 
 ---
+### Day 4:  𝗗𝗮𝘁𝗲 & 𝗧𝗶𝗺𝗲 𝗪𝗶𝗱𝗴𝗲𝘁
+A real-time date and time widget built entirely in the browser with Vanilla JavaScript, Vite, and Tailwind CSS v4.
+
+- **GitHub Repository**: [Date_Time_Widget](https://github.com/hritik2004-cse/Date_Time_Widget)
+- **Live Demo**: [Live Link](https://date-time-widget.vercel.app/)
+
+---
 *Stay tuned for more projects!*
