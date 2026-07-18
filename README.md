@@ -38,4 +38,11 @@ A real-time date and time widget built entirely in the browser with Vanilla Java
 - **Live Demo**: [Live Link](https://date-time-widget.vercel.app/)
 
 ---
+### Day 5:  𝗕𝗠𝗜 𝗖𝗮𝗹𝗰𝘂𝗹𝗮𝘁𝗼𝗿
+A modern, dark-themed, fully responsive BMI calculator built with HTML, Tailwind CSS, and Vanilla JavaScript.
+
+- **GitHub Repository**: [BMI_Calculator](https://github.com/hritik2004-cse/BMI_Calculator)
+- **Live Demo**: [Live Link](https://hritik-bmi-calculator.vercel.app/)
+
+---
 *Stay tuned for more projects!*
